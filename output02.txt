@@ -1,0 +1,81 @@
+./a.out stocks.txt input02.txt 4 500.00
+
+
+Day 1
+Current funds $500.00
+Stock WMT Bought at $ 9.90 per share
+Stock NVDA Bought at $ 35.63 per share
+Stock AMD Bought at $ 46.19 per share
+Stock GOOGL Bought at $ 50.39 per share
+
+
+Day 2
+Stock NVDA went up in value by $ 91.26 per share
+Stock GOOGL went up in value by $ 100.96 per share
+Stock WMT went up in value by $ 149.55 per share
+Stock AMD went up in value by $ 30.66 per share
+
+Current funds $872.43
+Stock META Bought at $ 3.07 per share
+Stock BAC Bought at $ 19.02 per share
+Stock KO Bought at $ 19.68 per share
+Stock AMZN Bought at $ 34.19 per share
+Stock NFLX Bought at $ 41.76 per share
+Stock GS Bought at $ 41.97 per share
+Stock INTC Bought at $ 51.04 per share
+Stock AMD Bought at $ 76.85 per share
+
+
+Day 3
+Stock META went up in value by $ 59.51 per share
+Stock BAC went up in value by $ 109.34 per share
+Stock INTC went up in value by $ 24.92 per share
+Stock NFLX went up in value by $ 113.18 per share
+Stock GS went up in value by $ 36.50 per share
+Stock KO went up in value by $ 26.05 per share
+Stock AMD went down in value by $ 6.07 per share
+Stock AMZN went down in value by $ 24.01 per share
+
+Current funds $1211.85
+Stock AMZN Bought at $ 10.18 per share
+Stock JPM Bought at $ 15.58 per share
+Stock AAPL Bought at $ 28.15 per share
+Stock KO Bought at $ 45.73 per share
+Stock GOOGL Bought at $ 61.26 per share
+Stock META Bought at $ 62.58 per share
+Stock AMD Bought at $ 70.78 per share
+Stock INTC Bought at $ 75.96 per share
+
+
+Day 4
+Stock AAPL went up in value by $ 151.83 per share
+Stock AMZN went up in value by $ 42.91 per share
+Stock JPM went up in value by $ 177.72 per share
+Stock KO went up in value by $ 23.84 per share
+Stock AMD went up in value by $ 68.67 per share
+Stock INTC went up in value by $ 28.34 per share
+Stock GOOGL went up in value by $ 13.20 per share
+Stock META went up in value by $ 51.13 per share
+
+Current funds $1769.49
+Stock NFLX Bought at $ 40.23 per share
+Stock GS Bought at $ 44.47 per share
+Stock AMZN Bought at $ 53.09 per share
+Stock BAC Bought at $ 53.30 per share
+Stock WMT Bought at $ 57.93 per share
+Stock KO Bought at $ 69.57 per share
+Stock GOOGL Bought at $ 74.46 per share
+Stock NVDA Bought at $ 81.19 per share
+
+
+Day 5
+Stock KO went down in value by $ 34.95 per share
+Stock GS went up in value by $ 27.62 per share
+Stock WMT went down in value by $ 41.94 per share
+Stock BAC went up in value by $ 0.38 per share
+Stock GOOGL went down in value by $ 16.52 per share
+Stock AMZN went up in value by $ 81.81 per share
+Stock NFLX went up in value by $ 123.91 per share
+Stock NVDA went up in value by $ 47.70 per share
+
+Final funds $1957.50

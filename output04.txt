@@ -1,0 +1,589 @@
+./a.out stocks.txt input04.txt 19 500.00
+
+Day 1
+Current funds $500.00
+Stock JPM Bought at $ 3.79 per share
+Stock NVDA Bought at $ 16.24 per share
+Stock WMT Bought at $ 22.27 per share
+Stock KO Bought at $ 23.12 per share
+Stock CRM Bought at $ 37.17 per share
+Stock AMZN Bought at $ 39.28 per share
+
+
+Day 2
+Stock AMZN went up in value by $ 70.80 per share
+Stock NVDA went up in value by $ 139.61 per share
+Stock JPM went up in value by $ 73.07 per share
+Stock CRM went up in value by $ 130.89 per share
+Stock KO went up in value by $ 105.24 per share
+Stock WMT went up in value by $ 14.07 per share
+
+Current funds $1033.68
+Stock NFLX Bought at $ 9.02 per share
+Stock GOOGL Bought at $ 18.53 per share
+Stock WMT Bought at $ 36.34 per share
+Stock INTC Bought at $ 41.28 per share
+Stock BAC Bought at $ 54.63 per share
+Stock PFE Bought at $ 67.40 per share
+Stock JPM Bought at $ 76.86 per share
+
+
+Day 3
+Stock INTC went up in value by $ 85.08 per share
+Stock WMT went up in value by $ 126.81 per share
+Stock GOOGL went up in value by $ 177.13 per share
+Stock PFE went up in value by $ 91.72 per share
+Stock BAC went up in value by $ 119.06 per share
+Stock NFLX went up in value by $ 53.33 per share
+Stock JPM went up in value by $ 71.44 per share
+
+Current funds $1758.25
+Stock CRM Bought at $ 44.23 per share
+Stock NFLX Bought at $ 62.35 per share
+Stock AMZN Bought at $ 79.74 per share
+Stock AMD Bought at $ 90.08 per share
+Stock META Bought at $ 114.13 per share
+Stock AAPL Bought at $ 118.36 per share
+
+
+Day 4
+Stock AMZN went up in value by $ 68.48 per share
+Stock META went down in value by $ 19.05 per share
+Stock NFLX went down in value by $ 24.02 per share
+Stock AMD went down in value by $ 31.08 per share
+Stock CRM went up in value by $ 39.96 per share
+Stock AAPL went up in value by $ 71.86 per share
+
+Current funds $1864.40
+Stock TSLA Bought at $ 2.87 per share
+Stock WMT Bought at $ 37.65 per share
+Stock NFLX Bought at $ 38.33 per share
+Stock JPM Bought at $ 48.25 per share
+Stock KO Bought at $ 53.61 per share
+Stock AMD Bought at $ 59.00 per share
+Stock GOOGL Bought at $ 68.54 per share
+Stock NVDA Bought at $ 80.17 per share
+Stock CRM Bought at $ 84.19 per share
+
+
+Day 5
+Stock AMD went up in value by $ 97.87 per share
+Stock NVDA went down in value by $ 57.02 per share
+Stock KO went up in value by $ 69.88 per share
+Stock TSLA went up in value by $ 170.05 per share
+Stock NFLX went down in value by $ 25.14 per share
+Stock JPM went up in value by $ 114.80 per share
+Stock GOOGL went up in value by $ 82.83 per share
+Stock CRM went up in value by $ 32.91 per share
+Stock WMT went up in value by $ 148.43 per share
+
+Current funds $2499.01
+Stock NFLX Bought at $ 13.19 per share
+Stock NVDA Bought at $ 23.15 per share
+Stock JNJ Bought at $ 46.31 per share
+Stock MSFT Bought at $ 74.78 per share
+Stock META Bought at $ 95.08 per share
+Stock BAC Bought at $ 96.05 per share
+Stock INTC Bought at $ 108.72 per share
+Stock AMD Bought at $ 113.06 per share
+Stock AAPL Bought at $ 113.32 per share
+
+
+Day 6
+Stock NVDA went up in value by $ 130.88 per share
+Stock INTC went up in value by $ 87.07 per share
+Stock AAPL went up in value by $ 51.18 per share
+Stock META went down in value by $ 48.48 per share
+Stock NFLX went up in value by $ 179.16 per share
+Stock BAC went up in value by $ 65.93 per share
+Stock JNJ went up in value by $ 49.77 per share
+Stock AMD went up in value by $ 3.38 per share
+Stock MSFT went down in value by $ 44.56 per share
+
+Current funds $2973.34
+Stock AMZN Bought at $ 1.77 per share
+Stock JPM Bought at $ 26.21 per share
+Stock MSFT Bought at $ 30.22 per share
+Stock PFE Bought at $ 43.31 per share
+Stock META Bought at $ 46.60 per share
+Stock GS Bought at $ 85.15 per share
+Stock TSLA Bought at $ 85.68 per share
+Stock JNJ Bought at $ 96.08 per share
+Stock GOOGL Bought at $ 107.44 per share
+Stock AMD Bought at $ 116.44 per share
+Stock NVDA Bought at $ 154.03 per share
+
+
+Day 7
+Stock JPM went up in value by $ 17.11 per share
+Stock TSLA went down in value by $ 57.92 per share
+Stock MSFT went up in value by $ 6.47 per share
+Stock GOOGL went up in value by $ 64.11 per share
+Stock JNJ went down in value by $ 12.05 per share
+Stock AMZN went up in value by $ 8.38 per share
+Stock NVDA went down in value by $ 121.03 per share
+Stock GS went up in value by $ 46.99 per share
+Stock AMD went up in value by $ 20.64 per share
+Stock PFE went down in value by $ 38.48 per share
+Stock META went up in value by $ 34.42 per share
+
+Current funds $2941.98
+Stock PFE Bought at $ 4.83 per share
+Stock AMZN Bought at $ 10.15 per share
+Stock KO Bought at $ 26.95 per share
+Stock TSLA Bought at $ 27.76 per share
+Stock NVDA Bought at $ 33.00 per share
+Stock MSFT Bought at $ 36.69 per share
+Stock JPM Bought at $ 43.32 per share
+Stock BAC Bought at $ 55.02 per share
+Stock CRM Bought at $ 61.55 per share
+Stock WMT Bought at $ 73.69 per share
+Stock NFLX Bought at $ 78.60 per share
+Stock INTC Bought at $ 80.85 per share
+Stock META Bought at $ 81.02 per share
+Stock JNJ Bought at $ 84.03 per share
+Stock GS Bought at $ 132.14 per share
+
+
+Day 8
+Stock TSLA went up in value by $ 78.15 per share
+Stock NFLX went down in value by $ 66.46 per share
+Stock CRM went up in value by $ 63.83 per share
+Stock PFE went up in value by $ 38.62 per share
+Stock INTC went down in value by $ 75.37 per share
+Stock META went up in value by $ 105.90 per share
+Stock JNJ went up in value by $ 8.98 per share
+Stock AMZN went up in value by $ 52.75 per share
+Stock MSFT went up in value by $ 26.08 per share
+Stock BAC went up in value by $ 96.85 per share
+Stock KO went up in value by $ 44.77 per share
+Stock NVDA went up in value by $ 92.26 per share
+Stock JPM went up in value by $ 56.15 per share
+Stock WMT went down in value by $ 12.91 per share
+Stock GS went down in value by $ 12.58 per share
+
+Current funds $3439.00
+Stock INTC Bought at $ 5.48 per share
+Stock NFLX Bought at $ 12.14 per share
+Stock GOOGL Bought at $ 26.15 per share
+Stock AAPL Bought at $ 42.42 per share
+Stock PFE Bought at $ 43.45 per share
+Stock WMT Bought at $ 60.78 per share
+Stock MSFT Bought at $ 62.77 per share
+Stock AMZN Bought at $ 62.90 per share
+Stock KO Bought at $ 71.72 per share
+Stock AMD Bought at $ 92.43 per share
+Stock JNJ Bought at $ 93.01 per share
+Stock JPM Bought at $ 99.47 per share
+Stock TSLA Bought at $ 105.91 per share
+Stock GS Bought at $ 119.56 per share
+
+
+Day 9
+Stock KO went up in value by $ 31.42 per share
+Stock MSFT went down in value by $ 38.56 per share
+Stock JPM went up in value by $ 42.13 per share
+Stock GS went down in value by $ 102.97 per share
+Stock PFE went up in value by $ 27.56 per share
+Stock AMZN went down in value by $ 37.66 per share
+Stock AMD went down in value by $ 21.98 per share
+Stock JNJ went down in value by $ 78.46 per share
+Stock AAPL went up in value by $ 50.65 per share
+Stock WMT went up in value by $ 106.12 per share
+Stock NFLX went up in value by $ 131.09 per share
+Stock GOOGL went up in value by $ 91.43 per share
+Stock INTC went up in value by $ 112.48 per share
+Stock TSLA went up in value by $ 93.64 per share
+
+Current funds $3845.89
+Stock JNJ Bought at $ 14.55 per share
+Stock GS Bought at $ 16.59 per share
+Stock BAC Bought at $ 21.35 per share
+Stock MSFT Bought at $ 24.21 per share
+Stock AMZN Bought at $ 25.24 per share
+Stock AMD Bought at $ 70.45 per share
+Stock PFE Bought at $ 71.01 per share
+Stock NVDA Bought at $ 76.88 per share
+Stock AAPL Bought at $ 93.07 per share
+Stock KO Bought at $ 103.14 per share
+Stock GOOGL Bought at $ 117.58 per share
+Stock INTC Bought at $ 117.96 per share
+Stock META Bought at $ 131.25 per share
+Stock JPM Bought at $ 141.60 per share
+
+
+Day 10
+Stock AAPL went down in value by $ 5.03 per share
+Stock KO went up in value by $ 32.60 per share
+Stock JPM went up in value by $ 5.13 per share
+Stock AMZN went up in value by $ 106.88 per share
+Stock JNJ went up in value by $ 35.74 per share
+Stock PFE went down in value by $ 25.96 per share
+Stock GOOGL went down in value by $ 6.20 per share
+Stock MSFT went up in value by $ 133.35 per share
+Stock BAC went up in value by $ 38.17 per share
+Stock AMD went up in value by $ 19.02 per share
+Stock GS went up in value by $ 133.45 per share
+Stock META went down in value by $ 34.52 per share
+Stock INTC went down in value by $ 19.00 per share
+Stock NVDA went down in value by $ 20.94 per share
+
+Current funds $4238.58
+Stock CRM Bought at $ 5.10 per share
+Stock NFLX Bought at $ 14.36 per share
+Stock PFE Bought at $ 45.05 per share
+Stock JNJ Bought at $ 50.29 per share
+Stock NVDA Bought at $ 55.94 per share
+Stock BAC Bought at $ 59.52 per share
+Stock AAPL Bought at $ 88.04 per share
+Stock AMD Bought at $ 89.47 per share
+Stock META Bought at $ 96.73 per share
+Stock INTC Bought at $ 98.96 per share
+Stock GOOGL Bought at $ 111.38 per share
+Stock TSLA Bought at $ 113.53 per share
+Stock AMZN Bought at $ 132.12 per share
+Stock KO Bought at $ 135.74 per share
+
+
+Day 11
+Stock AMZN went up in value by $ 33.45 per share
+Stock KO went down in value by $ 27.52 per share
+Stock PFE went up in value by $ 134.82 per share
+Stock BAC went up in value by $ 60.32 per share
+Stock AAPL went up in value by $ 52.07 per share
+Stock CRM went up in value by $ 17.78 per share
+Stock INTC went down in value by $ 31.42 per share
+Stock NFLX went up in value by $ 133.10 per share
+Stock GOOGL went down in value by $ 16.32 per share
+Stock META went down in value by $ 34.63 per share
+Stock AMD went down in value by $ 42.63 per share
+Stock NVDA went up in value by $ 121.44 per share
+Stock TSLA went up in value by $ 42.20 per share
+Stock JNJ went up in value by $ 137.57 per share
+
+Current funds $4818.81
+Stock CRM Bought at $ 22.88 per share
+Stock JPM Bought at $ 33.62 per share
+Stock AMD Bought at $ 46.84 per share
+Stock META Bought at $ 62.10 per share
+Stock INTC Bought at $ 67.54 per share
+Stock GOOGL Bought at $ 95.06 per share
+Stock GS Bought at $ 99.12 per share
+Stock KO Bought at $ 108.22 per share
+Stock WMT Bought at $ 115.43 per share
+Stock BAC Bought at $ 119.84 per share
+Stock AAPL Bought at $ 140.11 per share
+Stock NFLX Bought at $ 147.46 per share
+Stock TSLA Bought at $ 155.73 per share
+
+
+Day 12
+Stock CRM went up in value by $ 25.04 per share
+Stock KO went up in value by $ 25.77 per share
+Stock WMT went up in value by $ 54.36 per share
+Stock JPM went up in value by $ 126.89 per share
+Stock BAC went up in value by $ 46.16 per share
+Stock AMD went up in value by $ 7.04 per share
+Stock AAPL went down in value by $ 95.70 per share
+Stock TSLA went up in value by $ 31.38 per share
+Stock GOOGL went up in value by $ 80.34 per share
+Stock NFLX went down in value by $ 75.98 per share
+Stock INTC went down in value by $ 42.38 per share
+Stock GS went down in value by $ 69.89 per share
+Stock META went up in value by $ 27.56 per share
+
+Current funds $4959.40
+Stock AMZN Bought at $ 6.46 per share
+Stock PFE Bought at $ 22.48 per share
+Stock INTC Bought at $ 25.16 per share
+Stock GS Bought at $ 29.23 per share
+Stock JNJ Bought at $ 34.19 per share
+Stock AAPL Bought at $ 44.41 per share
+Stock CRM Bought at $ 47.92 per share
+Stock AMD Bought at $ 53.88 per share
+Stock NFLX Bought at $ 71.48 per share
+Stock NVDA Bought at $ 83.09 per share
+Stock META Bought at $ 89.66 per share
+Stock KO Bought at $ 133.99 per share
+Stock JPM Bought at $ 160.51 per share
+Stock BAC Bought at $ 166.00 per share
+Stock MSFT Bought at $ 169.06 per share
+Stock WMT Bought at $ 169.79 per share
+
+
+Day 13
+Stock META went up in value by $ 57.66 per share
+Stock BAC went down in value by $ 157.73 per share
+Stock MSFT went down in value by $ 36.08 per share
+Stock JNJ went up in value by $ 102.56 per share
+Stock AMD went up in value by $ 143.37 per share
+Stock PFE went up in value by $ 135.35 per share
+Stock CRM went down in value by $ 8.06 per share
+Stock WMT went down in value by $ 124.57 per share
+Stock INTC went up in value by $ 175.67 per share
+Stock NFLX went down in value by $ 25.30 per share
+Stock NVDA went down in value by $ 35.23 per share
+Stock AAPL went up in value by $ 102.65 per share
+Stock JPM went down in value by $ 13.48 per share
+Stock GS went down in value by $ 16.34 per share
+Stock AMZN went up in value by $ 194.03 per share
+Stock KO went up in value by $ 30.06 per share
+
+Current funds $5483.96
+Stock GOOGL Bought at $ 4.45 per share
+Stock BAC Bought at $ 8.27 per share
+Stock GS Bought at $ 12.89 per share
+Stock CRM Bought at $ 39.86 per share
+Stock WMT Bought at $ 45.22 per share
+Stock NFLX Bought at $ 46.18 per share
+Stock NVDA Bought at $ 47.86 per share
+Stock MSFT Bought at $ 132.98 per share
+Stock JNJ Bought at $ 136.75 per share
+Stock JPM Bought at $ 147.03 per share
+Stock AAPL Bought at $ 147.06 per share
+Stock META Bought at $ 147.32 per share
+Stock TSLA Bought at $ 154.03 per share
+Stock PFE Bought at $ 157.83 per share
+Stock KO Bought at $ 164.05 per share
+
+
+Day 14
+Stock AAPL went down in value by $ 36.16 per share
+Stock BAC went up in value by $ 46.37 per share
+Stock NVDA went up in value by $ 36.78 per share
+Stock META went down in value by $ 142.13 per share
+Stock GOOGL went up in value by $ 127.84 per share
+Stock GS went up in value by $ 155.78 per share
+Stock NFLX went up in value by $ 64.09 per share
+Stock MSFT went down in value by $ 34.99 per share
+Stock WMT went down in value by $ 43.36 per share
+Stock KO went down in value by $ 138.50 per share
+Stock JPM went down in value by $ 139.53 per share
+Stock JNJ went down in value by $ 63.32 per share
+Stock TSLA went up in value by $ 18.76 per share
+Stock CRM went up in value by $ 159.55 per share
+Stock PFE went down in value by $ 57.62 per share
+
+Current funds $5437.52
+Stock WMT Bought at $ 1.86 per share
+Stock META Bought at $ 5.19 per share
+Stock JPM Bought at $ 7.50 per share
+Stock KO Bought at $ 25.55 per share
+Stock AMZN Bought at $ 51.12 per share
+Stock BAC Bought at $ 54.64 per share
+Stock JNJ Bought at $ 73.43 per share
+Stock NVDA Bought at $ 84.64 per share
+Stock MSFT Bought at $ 97.99 per share
+Stock PFE Bought at $ 100.21 per share
+Stock NFLX Bought at $ 110.27 per share
+Stock AAPL Bought at $ 110.90 per share
+Stock GOOGL Bought at $ 132.29 per share
+Stock INTC Bought at $ 148.69 per share
+Stock GS Bought at $ 168.67 per share
+Stock TSLA Bought at $ 172.79 per share
+Stock AMD Bought at $ 193.12 per share
+
+
+Day 15
+Stock KO went up in value by $ 76.86 per share
+Stock MSFT went down in value by $ 9.09 per share
+Stock NVDA went up in value by $ 80.96 per share
+Stock BAC went down in value by $ 32.51 per share
+Stock TSLA went down in value by $ 26.39 per share
+Stock GS went down in value by $ 48.36 per share
+Stock AMZN went up in value by $ 92.03 per share
+Stock NFLX went down in value by $ 23.83 per share
+Stock INTC went down in value by $ 44.68 per share
+Stock JPM went up in value by $ 100.89 per share
+Stock WMT went up in value by $ 85.83 per share
+Stock GOOGL went up in value by $ 5.48 per share
+Stock AAPL went down in value by $ 12.01 per share
+Stock PFE went down in value by $ 93.82 per share
+Stock JNJ went up in value by $ 71.13 per share
+Stock META went up in value by $ 66.87 per share
+Stock AMD went down in value by $ 91.08 per share
+
+Current funds $5635.80
+Stock PFE Bought at $ 6.39 per share
+Stock BAC Bought at $ 22.13 per share
+Stock META Bought at $ 72.06 per share
+Stock NFLX Bought at $ 86.44 per share
+Stock WMT Bought at $ 87.69 per share
+Stock MSFT Bought at $ 88.90 per share
+Stock AAPL Bought at $ 98.89 per share
+Stock AMD Bought at $ 102.04 per share
+Stock KO Bought at $ 102.41 per share
+Stock INTC Bought at $ 104.01 per share
+Stock JPM Bought at $ 108.39 per share
+Stock GS Bought at $ 120.31 per share
+Stock GOOGL Bought at $ 137.77 per share
+Stock AMZN Bought at $ 143.15 per share
+Stock JNJ Bought at $ 144.56 per share
+
+
+Day 16
+Stock KO went up in value by $ 95.02 per share
+Stock MSFT went down in value by $ 62.69 per share
+Stock WMT went down in value by $ 32.37 per share
+Stock GOOGL went up in value by $ 54.54 per share
+Stock META went up in value by $ 65.68 per share
+Stock AMZN went up in value by $ 13.25 per share
+Stock BAC went up in value by $ 112.10 per share
+Stock AMD went up in value by $ 20.20 per share
+Stock NFLX went up in value by $ 64.60 per share
+Stock PFE went up in value by $ 83.58 per share
+Stock GS went down in value by $ 6.90 per share
+Stock JPM went up in value by $ 91.22 per share
+Stock INTC went down in value by $ 37.02 per share
+Stock AAPL went up in value by $ 23.89 per share
+Stock JNJ went up in value by $ 53.44 per share
+
+Current funds $6174.34
+Stock CRM Bought at $ 4.40 per share
+Stock MSFT Bought at $ 26.21 per share
+Stock TSLA Bought at $ 28.14 per share
+Stock WMT Bought at $ 55.32 per share
+Stock INTC Bought at $ 66.99 per share
+Stock PFE Bought at $ 89.97 per share
+Stock GS Bought at $ 113.41 per share
+Stock AMD Bought at $ 122.24 per share
+Stock AAPL Bought at $ 122.78 per share
+Stock BAC Bought at $ 134.23 per share
+Stock META Bought at $ 137.74 per share
+Stock NFLX Bought at $ 151.04 per share
+Stock AMZN Bought at $ 156.40 per share
+Stock NVDA Bought at $ 189.07 per share
+Stock GOOGL Bought at $ 192.31 per share
+
+
+Day 17
+Stock TSLA went up in value by $ 39.79 per share
+Stock WMT went up in value by $ 91.94 per share
+Stock PFE went down in value by $ 38.85 per share
+Stock AMZN went down in value by $ 76.88 per share
+Stock AAPL went down in value by $ 50.85 per share
+Stock META went down in value by $ 122.31 per share
+Stock GS went up in value by $ 82.48 per share
+Stock GOOGL went down in value by $ 4.39 per share
+Stock BAC went down in value by $ 28.66 per share
+Stock INTC went down in value by $ 64.92 per share
+Stock MSFT went up in value by $ 4.10 per share
+Stock NVDA went down in value by $ 28.95 per share
+Stock CRM went up in value by $ 74.41 per share
+Stock NFLX went down in value by $ 129.57 per share
+Stock AMD went down in value by $ 35.08 per share
+
+Current funds $5886.60
+Stock INTC Bought at $ 2.07 per share
+Stock META Bought at $ 15.43 per share
+Stock NFLX Bought at $ 21.47 per share
+Stock MSFT Bought at $ 30.31 per share
+Stock PFE Bought at $ 51.12 per share
+Stock TSLA Bought at $ 67.93 per share
+Stock AAPL Bought at $ 71.93 per share
+Stock JNJ Bought at $ 71.95 per share
+Stock CRM Bought at $ 78.81 per share
+Stock AMZN Bought at $ 79.52 per share
+Stock AMD Bought at $ 87.16 per share
+Stock JPM Bought at $ 104.03 per share
+Stock BAC Bought at $ 105.57 per share
+Stock WMT Bought at $ 147.26 per share
+Stock NVDA Bought at $ 160.12 per share
+Stock GOOGL Bought at $ 187.92 per share
+Stock GS Bought at $ 195.89 per share
+
+
+Day 18
+Stock JPM went down in value by $ 44.00 per share
+Stock AMZN went down in value by $ 69.12 per share
+Stock GS went down in value by $ 16.36 per share
+Stock MSFT went up in value by $ 96.61 per share
+Stock TSLA went up in value by $ 67.77 per share
+Stock CRM went up in value by $ 83.89 per share
+Stock AMD went up in value by $ 105.85 per share
+Stock AAPL went up in value by $ 28.24 per share
+Stock META went up in value by $ 123.46 per share
+Stock NVDA went down in value by $ 149.41 per share
+Stock GOOGL went down in value by $ 39.06 per share
+Stock PFE went up in value by $ 36.56 per share
+Stock INTC went up in value by $ 149.91 per share
+Stock BAC went down in value by $ 26.80 per share
+Stock JNJ went up in value by $ 92.28 per share
+Stock WMT went down in value by $ 117.76 per share
+Stock NFLX went up in value by $ 152.48 per share
+
+Current funds $6361.14
+Stock KO Bought at $ 9.01 per share
+Stock AMZN Bought at $ 10.40 per share
+Stock NVDA Bought at $ 10.71 per share
+Stock WMT Bought at $ 29.50 per share
+Stock JPM Bought at $ 60.03 per share
+Stock BAC Bought at $ 78.77 per share
+Stock PFE Bought at $ 87.68 per share
+Stock AAPL Bought at $ 100.17 per share
+Stock MSFT Bought at $ 126.92 per share
+Stock TSLA Bought at $ 135.70 per share
+Stock META Bought at $ 138.89 per share
+Stock GOOGL Bought at $ 148.86 per share
+Stock INTC Bought at $ 151.98 per share
+Stock CRM Bought at $ 162.70 per share
+Stock JNJ Bought at $ 164.23 per share
+Stock NFLX Bought at $ 173.95 per share
+Stock GS Bought at $ 179.53 per share
+
+
+Day 19
+Stock MSFT went up in value by $ 68.98 per share
+Stock TSLA went down in value by $ 26.16 per share
+Stock PFE went up in value by $ 12.81 per share
+Stock WMT went up in value by $ 31.61 per share
+Stock JNJ went up in value by $ 19.95 per share
+Stock GS went down in value by $ 30.18 per share
+Stock AMZN went up in value by $ 77.71 per share
+Stock INTC went down in value by $ 78.49 per share
+Stock META went down in value by $ 74.66 per share
+Stock BAC went up in value by $ 69.87 per share
+Stock KO went up in value by $ 166.11 per share
+Stock NVDA went up in value by $ 172.37 per share
+Stock AAPL went down in value by $ 31.16 per share
+Stock GOOGL went up in value by $ 23.31 per share
+Stock NFLX went down in value by $ 8.96 per share
+Stock CRM went up in value by $ 20.13 per share
+Stock JPM went up in value by $ 69.42 per share
+
+Current funds $6843.80
+Stock WMT Bought at $ 61.11 per share
+Stock META Bought at $ 64.23 per share
+Stock AAPL Bought at $ 69.01 per share
+Stock INTC Bought at $ 73.49 per share
+Stock AMZN Bought at $ 88.11 per share
+Stock PFE Bought at $ 100.49 per share
+Stock TSLA Bought at $ 109.54 per share
+Stock JPM Bought at $ 129.45 per share
+Stock BAC Bought at $ 148.64 per share
+Stock GS Bought at $ 149.35 per share
+Stock NFLX Bought at $ 164.99 per share
+Stock GOOGL Bought at $ 172.17 per share
+Stock KO Bought at $ 175.12 per share
+Stock CRM Bought at $ 182.83 per share
+Stock NVDA Bought at $ 183.08 per share
+
+
+Day 20
+Stock CRM went down in value by $ 23.37 per share
+Stock WMT went down in value by $ 18.35 per share
+Stock KO went up in value by $ 16.26 per share
+Stock GS went down in value by $ 123.06 per share
+Stock INTC went up in value by $ 68.88 per share
+Stock META went up in value by $ 94.92 per share
+Stock NVDA went down in value by $ 44.17 per share
+Stock NFLX went up in value by $ 32.02 per share
+Stock JPM went down in value by $ 126.82 per share
+Stock BAC went down in value by $ 131.16 per share
+Stock TSLA went down in value by $ 10.06 per share
+Stock AMZN went up in value by $ 90.74 per share
+Stock PFE went up in value by $ 52.77 per share
+Stock GOOGL went down in value by $ 48.04 per share
+Stock AAPL went up in value by $ 72.13 per share
+
+Final funds $6746.49

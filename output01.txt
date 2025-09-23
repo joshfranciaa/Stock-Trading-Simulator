@@ -1,0 +1,22 @@
+./a.out stocks.txt input01.txt 1 500.00
+
+
+Day 1
+Current funds $500.00
+Stock JPM Bought at $ 7.77 per share
+Stock MSFT Bought at $ 15.14 per share
+Stock TSLA Bought at $ 19.99 per share
+Stock META Bought at $ 34.91 per share
+Stock PFE Bought at $ 45.44 per share
+Stock INTC Bought at $ 61.32 per share
+
+
+Day 2
+Stock PFE went up in value by $ 154.50 per share
+Stock META went up in value by $ 53.50 per share
+Stock MSFT went up in value by $ 116.42 per share
+Stock INTC went down in value by $ 14.73 per share
+Stock JPM went up in value by $ 170.86 per share
+Stock TSLA went up in value by $ 8.04 per share
+
+Final funds $988.59
