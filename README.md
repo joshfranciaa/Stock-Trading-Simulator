@@ -47,4 +47,4 @@ This simulator requires four command-line arguments.
 If you do not provide exactly four, the program exits immediately.
 
 ## Required Format:
-./tradingApp <stockInputFile> <priceInputFile> <totalDays> <startingFunds>
+./tradingApp *stockInputFile* *priceInputFile* *totalDays* *startingFunds*
